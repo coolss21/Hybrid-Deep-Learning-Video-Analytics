@@ -28,7 +28,7 @@ That’s it by design: the goal is to keep replication simple.
 3. In the last cell, a **Gradio public URL** is printed.
    - Click it to open the demo in a new tab.
 
-### Open in Colab badge (edit the notebook name)
+### Open in Colab badge
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/coolss21/Hybrid-Deep-Learning-Video-Analytics/blob/main/vid_analytics.ipynb
 )
